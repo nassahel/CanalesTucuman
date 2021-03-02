@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno-"1",America Tucuman
+
+http://45.6.4.154/americatuc/vivo.m3u8
+
+#EXTINF:-1 tvg-chno-"2",Canal 10
+
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1614734412&h=ac8362443e59cd84776b527c96818804
+
+#EXTINF:-1 tvg-chno-"3",Canal 26
+
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w942590884_b1864000_sleng.m3u8
+
+
+
+
+
+
+
